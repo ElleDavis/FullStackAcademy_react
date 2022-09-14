@@ -1,0 +1,7 @@
+make form for registrration
+user inputs data
+data is updated in state
+user is added to database
+
+
+
